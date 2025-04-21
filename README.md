@@ -1,5 +1,5 @@
 ## Description
-"A dynamic, 3-player Tic-Tac-Toe game with customizable board dimensions and dynamic win conditions. Unlike traditional Tic-Tac-Toe, this version allows players to adjust the grid size and determine the number of consecutive marks required for a win, offering a unique and challenging gameplay experience. Developed with flexibility in mind, this game can be played with 2 or 3 players, with an option to play against an AI opponent."
+"A dynamic, 3-player Tic-Tac-Toe game with customizable board dimensions and dynamic win conditions. Unlike traditional Tic-Tac-Toe, this version allows players to adjust the grid size and determine the number of consecutive marks required for a win, offering a unique and challenging gameplay experience."
 
 
 # React + TypeScript + Vite
